@@ -1,0 +1,25 @@
+{
+  "name": "package.json",
+  "version": "0.1.0",
+  "description": "'Titulo de mi pagina Web'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AinhoaAlonso/titulo.git"
+  },
+  "keywords": [
+    "titulo"
+  ],
+  "author": "Ainhoa Alonso <ainhoaalonso88@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AinhoaAlonso/titulo/issues"
+  },
+  "homepage": "https://github.com/AinhoaAlonso/titulo#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
